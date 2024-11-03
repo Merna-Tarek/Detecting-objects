@@ -13,6 +13,7 @@ Installation
 - NumPy: For numerical operations.
 
 Explanation:
+
 1- ORB Detector: The ORB detector detects and describes key points in the live video feed and the template image.
 2- Brute-Force Matcher: The detected key points are matched using the Brute-Force Matcher with Hamming distance for binary descriptors.
 3- Threshold-Based Detection: When the number of feature matches exceeds a defined threshold, the program recognizes the object as detected.
