@@ -1,5 +1,3 @@
-#Real-Time Object Detection using ORB and OpenCV
-
 This project implements a simple, efficient real-time object detection system using the ORB (Oriented FAST and Rotated BRIEF) feature detector and OpenCV. It matches features in a live video feed from a webcam against a template image to detect the presence of a specific object.
 
 Features:
