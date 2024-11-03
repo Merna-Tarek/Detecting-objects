@@ -8,7 +8,7 @@ Features:
 - Adjustable threshold for detecting specific objects based on feature matches.
 - CPU-friendly, works without additional libraries like CUDA or GPU processing.
 
-Installation
+Installation:
 - OpenCV: For image processing and object detection.
 - NumPy: For numerical operations.
 
